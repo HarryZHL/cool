@@ -1,0 +1,33 @@
+{
+  "name": "cool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryZHL/cool.git"
+  },
+  "author": "Harry_ZHL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryZHL/cool/issues"
+  },
+  "homepage": "https://github.com/HarryZHL/cool#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
